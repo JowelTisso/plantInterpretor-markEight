@@ -19,7 +19,9 @@ export default function App() {
     "🍁": "Maple Leaf",
     "🌿": "Herb",
     "☘️": "Shamrock",
-    "🌷": "Tulip"
+    "🌷": "Tulip",
+    "🌳": "Deciduous Tree",
+    "🌺": " Hibiscus"
   };
 
   const allEmoji = Object.keys(plantDictionary);
